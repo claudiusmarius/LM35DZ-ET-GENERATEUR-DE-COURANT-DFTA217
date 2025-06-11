@@ -9,3 +9,7 @@ par une résistance en entrée du microcontroleur qui est dans notre exemple un 
 Le code prévoit pour chacun des capteurs et de manière différenciée une correction de zéro et une correction d'échelle.
 
 Bien entendu il a été nécessaire d'utiliser un multiplexeur de bus I2C pour afficher sur 2 écrans qui je le rappelle ont tous l'adresse 0X3C.
+
+Vidéo YouTube :
+
+
